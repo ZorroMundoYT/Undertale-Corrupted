@@ -1,0 +1,3 @@
+//DONT MODIFY!
+[game]
+curversion= "1.0"
