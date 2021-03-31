@@ -1,2 +1,2 @@
 [DONT MODIFY]
-curversion= "1.0"
+curversion="1.0"
