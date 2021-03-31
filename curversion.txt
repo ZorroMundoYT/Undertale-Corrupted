@@ -1,2 +1,4 @@
 [DONT MODIFY]
 curversion="1.0"
+downloadlink0="https://zorromundoyt.github.io/Undertale-Corrupted/utc.exe"
+downloadlink1="https://zorromundoyt.github.io/Undertale-Corrupted/utc.apk"
