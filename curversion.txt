@@ -1,4 +1,4 @@
 [DONT MODIFY]
-curversion="0.1"
+curversion="0.1.1"
 downloadlink0="https://zorromundoyt.github.io/Undertale-Corrupted/undertale-corrupted.exe"
 downloadlink1="https://zorromundoyt.github.io/Undertale-Corrupted/undertale-corrupted.apk"
